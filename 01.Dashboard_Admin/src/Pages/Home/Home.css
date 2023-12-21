@@ -1,0 +1,11 @@
+.home{
+    margin-right: 250px;
+}
+.breadcrumb-item:nth-child(1):after  {
+    content: ' /  ';
+    padding-right: 5px;
+  }
+  .breadcrumb-item:nth-last-child(1)::before{
+    display: none;
+
+  }
