@@ -8,7 +8,7 @@ function Footer() {
       Anything you want
     </div>
     {/* <!-- Default to the left --> */}
-    <strong>CopyLeft &copy; 2018 <a href="http://github.com/hesammousavi/">حسام موسوی</a>.</strong>
+    <strong>CopyLeft &copy; 2022 <a href="http://github.com/hesammousavi/">حسام موسوی</a>.</strong>
   </footer>
   )
 }
